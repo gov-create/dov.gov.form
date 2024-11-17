@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dol.gov.form/static/css/main.cb76e8d5.css",
+    "main.js": "/dol.gov.form/static/js/main.2062c42b.js",
+    "static/media/imgCard1.png": "/dol.gov.form/static/media/imgCard1.a2a9994cd7981445ed3d.png",
+    "static/media/imgCard.png": "/dol.gov.form/static/media/imgCard.115bc2469fc683b81952.png",
+    "index.html": "/dol.gov.form/index.html",
+    "main.cb76e8d5.css.map": "/dol.gov.form/static/css/main.cb76e8d5.css.map",
+    "main.2062c42b.js.map": "/dol.gov.form/static/js/main.2062c42b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb76e8d5.css",
+    "static/js/main.2062c42b.js"
+  ]
+}
